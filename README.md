@@ -15,5 +15,5 @@ Evidenta Smile is a mobile application developed using Flutter. The app is speci
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/evidenta-smile-app.git
+   git clone https://github.com/PetruIulian/evidenta-smile-app.git
    cd evidenta-smile-app
