@@ -1,16 +1,19 @@
-# evidenta_smile
+# Evidenta Smile Mobile App
 
-EvidentaSmile
+## Overview
 
-## Getting Started
+Evidenta Smile is a mobile application developed using Flutter. The app is specifically designed to assist in maintaining a record of volunteer presence at events organized by the More Than A Smile Organization. It provides a convenient and efficient way to track the attendance of volunteers, ensuring accurate and up-to-date records for event management.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Event Attendance Tracking:** Easily record the presence of volunteers at events organized by More Than A Smile.
+- **User-Friendly Interface:** Intuitive and user-friendly design for seamless navigation.
+- **Flutter Framework:** Built using the Flutter framework for cross-platform compatibility (iOS and Android).
+- **Secure Data Storage:** Volunteers' attendance data is securely stored for reference and reporting.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/evidenta-smile-app.git
+   cd evidenta-smile-app
